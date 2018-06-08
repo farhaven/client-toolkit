@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Event",""],["Request",""]],"struct":[["ZwpIdleInhibitorV1",""]],"trait":[["RequestsTrait",""]]});

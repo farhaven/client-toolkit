@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ContentHint","content hint"],["ContentPurpose","content purpose"],["Event",""],["PreeditStyle",""],["Request",""],["TextDirection",""]],"struct":[["ZwpTextInputV1",""]],"trait":[["RequestsTrait",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Event",""],["Request",""]],"struct":[["ZwpPointerGestureSwipeV1",""]],"trait":[["RequestsTrait",""]]});

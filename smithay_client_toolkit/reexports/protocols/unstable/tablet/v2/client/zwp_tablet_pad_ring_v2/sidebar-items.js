@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Event",""],["Request",""],["Source","ring axis source"]],"struct":[["ZwpTabletPadRingV2",""]],"trait":[["RequestsTrait",""]]});
